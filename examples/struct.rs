@@ -1,6 +1,6 @@
 use std::io;
-use binfile::{save, load};
-use serde::{Serialize, Deserialize}; // requires serde = { version = "1.0.228", features = ["derive"] } in Cargo.toml
+use bincode_io::{save, load};
+use serde::{Serialize, Deserialize};
 
 #[derive(Serialize, Deserialize)]
 struct State {
