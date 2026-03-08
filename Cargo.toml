@@ -1,5 +1,5 @@
 [package]
-name = "binfile"
+name = "bincode-io"
 version = "0.1.0"
 edition = "2024"
 description = "Simple way to save and load Rust structs to binary files."
