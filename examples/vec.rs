@@ -1,5 +1,5 @@
 use std::io;
-use binfile::{save, load};
+use bincode_io::{save, load};
 
 fn main() {
     println!("1: Save\n2: Load");
