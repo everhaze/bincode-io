@@ -28,7 +28,7 @@ This crate makes it as simple as possible to serialize and deserialize data into
 If you are serializing structs, make sure your types implement Serialize and Deserialize.
 ```toml
 [dependencies]
-bincode-io = "0.1"
+bincode-io = "0.1.1"
 serde = { version = "1.0.228", features = ["derive"] }
 ```
 
