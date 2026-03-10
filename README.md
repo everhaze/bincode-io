@@ -6,7 +6,7 @@ Simple way to save and load Rust types to binary files.
 ## Installation
 ```toml
 [dependencies]
-bincode-io = "0.1"
+bincode-io = "0.1.1"
 ```
 
 ## Usage
