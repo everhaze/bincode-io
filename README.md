@@ -1,7 +1,7 @@
 # bincode-io
 [![crates.io](https://img.shields.io/crates/v/bincode-io.svg)](https://crates.io/crates/bincode-io)
 
-Simple way to save and load Rust structs to binary files.
+Simple way to save and load Rust types to binary files.
 
 ## Installation
 ```toml
